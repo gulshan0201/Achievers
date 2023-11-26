@@ -1,0 +1,48 @@
+.head_left .h_subTitle{
+    background: #F9F3CC;
+    color: #F29727;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+.h_title h1{
+    font-size: 50px;
+}
+.contact_btn{
+    border:1px solid #F29727!important;
+    background-color: transparent !important;
+    color: #F29727 !important; 
+    font-weight: bold !important;
+    text-transform: capitalize;
+}
+.head_right .imageContainer{
+    width: 100%;
+    height: 100%;
+}
+.imageContainer .head_rightImg{
+    width: 70%;
+    height: 40%;
+    object-fit: cover;
+}
+.curve{
+    width: 8rem;
+    height: 100%;
+    object-fit: cover;
+}
+.starr{
+    color: #FB9431;
+}
+
+.custom-card {
+    transition: transform 0.3s ease;
+  }
+  
+  /* Hover state */
+  .custom-card:hover {
+    transform: scale(1.05); 
+  }
+
+  .btn-custom-animation:hover {
+    transform: scale(1.1); 
+  }
+  
